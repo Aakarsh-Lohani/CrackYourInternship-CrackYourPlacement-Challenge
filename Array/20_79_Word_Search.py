@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/word-search/description/
 # 79. Word Search
 
-O(N∗M∗4^L)
+# Time complexity : O(N∗M∗4^L)
 # Space Complexity: O(L)
 from typing import List
 
